@@ -7,11 +7,11 @@ O Agente de Pesquisa de Destinos de Viagem é uma solução inteligente desenvol
 ## Problema que o Projeto Resolve
 Viajar exige planejamento cuidadoso. Muitos viajantes acabam escolhendo um destino para viajar com base somente nos preços. Pois muitas vezes os preços são muito atraentes em determinados meses para alguns países, mas são época de tornados, furacões, tsunâmis, chuvas, etc. 
 Muitos não sabem: 
-- [x]	quais destinos são melhores em cada mês;
-- [x]	quais locais têm melhor clima na época desejada;
-- [x]	onde há eventos ou festivais interessantes;
-- [x]	qual é o custo médio da viagem;
-- [x]	alternativas semelhantes ao destino desejado.
+- ✅ Item concluído	quais destinos são melhores em cada mês;
+- ✅ Item concluído	quais locais têm melhor clima na época desejada;
+- ✅ Item concluído onde há eventos ou festivais interessantes;
+- ✅ Item concluído qual é o custo médio da viagem;
+- ✅ Item concluído alternativas semelhantes ao destino desejado.
 
 ## Solução
 O projeto resolve esse problema ao oferecer um agente conversacional inteligente, capaz de entregar recomendações contextualizadas e atualizadas.
