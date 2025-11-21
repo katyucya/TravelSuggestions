@@ -1,18 +1,18 @@
-# :airplane: TravelSuggestions 
+# ✈️ TravelSuggestions 
 O Agente de Pesquisa de Destinos de Viagem é uma solução inteligente desenvolvida utilizando o Azure AI Foundry, com o objetivo de oferecer recomendações personalizadas de destinos turísticos com base em informações fornecidas pelo usuário, como mês da viagem, local de referência, orçamento ou preferências específicas.
 
 ## 🎯 Objetivos do Projeto
-Criar um agente inteligente capaz de recomendar destinos de viagem com precisão e contexto, usando IA generativa e dados externos.<br>
-- [x] Feito Analisar informações fornecidas pelo usuário (mês, destino, preferências).<br>
-- [x] Feito	Recomendar destinos adequados com base em clima, temporada e atividades.<br>
-- [x] Feito	Integrar-se a APIs externas de:<br>
-  *	clima em tempo real,<br>
-  *	preços,<br>
-  *	eventos e atividades.<br>
-- [x] Feito	Oferecer explicações claras e orientações de planejamento.<br>
+Criar um agente inteligente capaz de recomendar destinos de viagem com precisão e contexto, usando IA generativa e dados externos.
+* Feito Analisar informações fornecidas pelo usuário (mês, destino, preferências).
+* Feito	Recomendar destinos adequados com base em clima, temporada e atividades.
+* Feito	Integrar-se a APIs externas de:
+  *	clima em tempo real,
+  *	preços,
+  *	eventos e atividades.
+* Feito	Oferecer explicações claras e orientações de planejamento.
 
 ## ❗ Problema que o Projeto Resolve
-Viajar exige planejamento cuidadoso. Muitos viajantes acabam escolhendo um destino para viajar com base somente nos preços. Pois muitas vezes os preços são muito atraentes em determinados meses para alguns países, mas são época de tornados, furacões, tsunâmis, chuvas, etc.<br>
+Viajar exige planejamento cuidadoso. Muitos viajantes acabam escolhendo um destino para viajar com base somente nos preços. Pois muitas vezes os preços são muito atraentes em determinados meses para alguns países, mas são época de tornados, furacões, tsunâmis, chuvas, etc.
 Muitos não sabem:
 *	quais destinos são melhores em cada mês;
 *	quais locais têm melhor clima na época desejada;
