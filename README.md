@@ -61,4 +61,8 @@ Usuário → Agente de Viagens (Azure AI Foundry)
 
 ## Criando um Agent
 
+<p align="center">
+  <img src="printd/Add actions/actionsAdd_1.jpg" width="400">
+</p>
+
 
