@@ -1,56 +1,56 @@
-Passo-a-passo para criar um Agent
+# Passo-a-passo para criar um Agent
 
-Pré-requisitos
-Conta ativa no Azure free: https://portal.azure.com/
-Conta ativa no Azure AI Foundry: https://ai.azure.com/
-Criar um Resource Group
+## Pré-requisitos
+Conta ativa no **Azure** free: https://portal.azure.com/
+Conta ativa no **Azure AI Foundry**: https://ai.azure.com/
+Criar um **Resource Group**
 
-Criando um Resoure Group
+## Criando um Resoure Group
 1. Entre no https://portal.azure.com/ e faça o login.
-2. Selecione Resources Groups (Resource Manage) no menu Show portal menu lateral à esquerda.
-3. Clicar em + Create no menu central da página.
+2. Selecione **Resources Groups (Resource Manage)** no menu Show portal menu lateral à esquerda.
+3. Clicar em **+ Create** no menu central da página.
 4. Preencher:
-•	Subscription: selecione sua assinatura
-•	Resource group name: rg-challenge-afg
-•	Region: (Europe) Sweden Central
-5. Clicar no botão Review + create -> Create no menu inferior da página. 
+•	**Subscription:** selecione sua assinatura
+•	**Resource group name:** rg-challenge-afg
+•	**Region:** (Europe) Sweden Central
+5. Clicar no botão **Review + create -> Create** no menu inferior da página. 
 
-Criando um Projeto
-1.	Clicar no resource group: rg-challenge-afg
-2.	Clicar em + Create no menu central da página.
-3.	Na barra de pesquisa digitar: AI Foundry.
-4.	No AI Foundry clicar no botão Create -> Microsoft Foundry.
+## Criando um Projeto
+1.	Clicar no **resource group:** rg-challenge-afg
+2.	Clicar em **+ Create** no menu central da página.
+3.	Na barra de pesquisa digitar: **AI Foundry**.
+4.	No **AI Foundry** clicar no botão **Create -> Microsoft Foundry**.
 5.	Preencher:
-Subscription: selecione sua assinatura
-Resource group name: rg-challenge-afg
-Name: rg-challenge-afg
-Region: (Europe) Sweden Central
-Default project name: proj-challenge-afg
-6.	Clicar no botão Next no menu inferior da página. 
-7.	Selecionar: All networks, including the internet, can access this resource -> Next no menu inferior da página. 
-8.	Clicar no botão Next no menu inferior da página.
-9.	Clicar no botão Next no menu inferior da página.
-10.	Clicar no botão Next no menu inferior da página.
-11.	Clicar no botão Create no menu inferior da página
+**Subscription:** selecione sua assinatura
+**Resource group name:** rg-challenge-afg
+**Name:** rg-challenge-afg
+**Region:** (Europe) Sweden Central
+**Default project name:** proj-challenge-afg
+6.	Clicar no botão **Next** no menu inferior da página. 
+7.	Selecionar: **All networks, including the internet, can access this resource -> Next** no menu inferior da página. 
+8.	Clicar no botão **Next** no menu inferior da página.
+9.	Clicar no botão **Next** no menu inferior da página.
+10.	Clicar no botão **Next** no menu inferior da página.
+11.	Clicar no botão **Create** no menu inferior da página
 
-Criando Models + endpoints
+## Criando Models + endpoints
 1. Entre no https://ai.azure.com/ e faça o login.
-2. Clicar em Models + endpoints no menu lateral esquerdo da página
-3. Clicar em + Deploy model -> Deploy bade model no menu central da página.
-4. Na barra de pesquisa digitar: gpt-4.1-mini.
-5. Selecionar gpt-4.1-mini -> confirm
+2. Clicar em **Models + endpoints** no menu lateral esquerdo da página
+3. Clicar em **+ Deploy model -> Deploy bade model** no menu central da página.
+4. Na barra de pesquisa digitar: **gpt-4.1-mini**.
+5. Selecionar **gpt-4.1-mini -> confirm**
 
-Criando um Agente
+## Criando um Agente
 1. Entre no https://ai.azure.com/ e faça o login.
-2. Clicar em Go to Azure AI Foundry portal no menu central da página
+2. Clicar em **Go to Azure AI Foundry** portal no menu central da página
  
-3. Selecione Agents no menu lateral à esquerda. 
-4. Clicar em + New agent no menu central de configuração Create and debug your agents.
+3. Selecione **Agents** no menu lateral à esquerda. 
+4. Clicar em **+ New agent** no menu central de configuração **Create and debug your agents**.
  
-5. Preencher os campos na tela de configuração do model em Setup na lateral direita:
-•	Agent name: TravelSuggestions 
-•	Deployment*:  gpt-4.1-mini (version:2025-04-14)
-•	Instructions:
+5. Preencher os campos na tela de configuração do **model em Setup** na lateral direita:
+•	**Agent name:** TravelSuggestions 
+•	**Deployment:**  gpt-4.1-mini (version:2025-04-14)
+•	**Instructions:**
 Você é um agente especializado em viagens nacionais e internacionais.
 Sua função é recomendar uma lista das melhores cidades e países para viajar considerando:
 - Clima ideal
@@ -70,27 +70,28 @@ Regras:
 7. Aviso (chuva, época de tornados, furacões, monções, frio extremo etc.)
 8. Responda sempre de forma clara, organizada e objetiva.
 9. Você não responde perguntas sobre qualquer outro assunto. Você só retorna a pesquisa somente se for sobre viagem
-Agent Description:
+**Agent Description:**
 O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com os dados inseridos pelo usuário, retornando as informações dos melhores meses ou locais para viajar.
  
-6.	Preencher o campo na tela de configuração do model em Setup na lateral direita:
-•	Model Settings -> Temperature: 0.3
+6.	Preencher o campo na tela de configuração do **model em Setup** na lateral direita:
+•	**Model Settings ->** Temperature: 0.3
  
 
-Adicionando Actions:
-1.	Clicar em Action -> + Add na tela de configuração do model em Setup na lateral direita.
+## Adicionando Actions:
+1.	Clicar em **Action -> + Add** na tela de **configuração do model em Setup** na lateral direita.
  
-2.	Clicar em Azure Logic Apps na tela de Add action na lateral direita.  
+2.	Clicar em **Azure Logic Apps** na tela de **Add action** na lateral direita.  
 
-3.	Clicar em Call external HTTP or HTTPS endpoints na tela de Add Logic Add action na lateral esquerda.
+3.	Clicar em **Call external HTTP or HTTPS endpoints** na tela de **Add Logic Add action** na lateral esquerda.
  
-4.	Preencher os campos Your action name -> Your action description -> Clicar no botão Next na tela de Add Logic Add action na lateral esquerda.
+4.	Preencher os campos **Your action name -> Your action description ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
  
 
-5.	Selecionar no campo Value: GET -> Clicar no botão Next na tela de Add Logic Add action na lateral esquerda.
+5.	Selecionar no campo **Value: GET ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
  
-6.	Selecionar checklist I acknowledge that connecting to an Azure Logic Apps service will incur additional costs to my account -> Clicar no botão Next na tela de Add Logic Add action na lateral esquerda.
+6.	Selecionar checklist **I acknowledge that connecting to an Azure Logic Apps service will incur additional costs to my account ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
  
-7.	Clicar no botão Create na tela de Add Logic Add action na lateral direita.
+7.	Clicar no botão **Create** na tela de **Add Logic Add action** na lateral direita.
  
+
 
