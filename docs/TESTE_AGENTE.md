@@ -1,6 +1,6 @@
 # Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.
- 
+ (docs/prints/Create Agent/createAgent_6.jpg)
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## Resultado do teste 1: 
@@ -151,5 +151,6 @@ Resposta: print: testActions_8
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
 
