@@ -1,18 +1,18 @@
 # Passo-a-passo para criar um Agent
 
 ## Pré-requisitos
-Conta ativa no **Azure** free: https://portal.azure.com/
-Conta ativa no **Azure AI Foundry**: https://ai.azure.com/
-Criar um **Resource Group**
+✔️ Conta ativa no **Azure** free: https://portal.azure.com/<br>
+✔️ Conta ativa no **Azure AI Foundry**: https://ai.azure.com/<br>
+✔️ Criar um **Resource Group**
 
 ## Criando um Resoure Group
 1. Entre no https://portal.azure.com/ e faça o login.
 2. Selecione **Resources Groups (Resource Manage)** no menu Show portal menu lateral à esquerda.
 3. Clicar em **+ Create** no menu central da página.
-4. Preencher:
-•	**Subscription:** selecione sua assinatura
-•	**Resource group name:** rg-challenge-afg
-•	**Region:** (Europe) Sweden Central
+4. Preencher:<br>
+•	**Subscription:** selecione sua assinatura<br>
+•	**Resource group name:** rg-challenge-afg<br>
+•	**Region:** (Europe) Sweden Central<br>
 5. Clicar no botão **Review + create -> Create** no menu inferior da página. 
 
 ## Criando um Projeto
@@ -47,19 +47,19 @@ Criar um **Resource Group**
 3. Selecione **Agents** no menu lateral à esquerda. 
 4. Clicar em **+ New agent** no menu central de configuração **Create and debug your agents**.
  
-5. Preencher os campos na tela de configuração do **model em Setup** na lateral direita:
-•	**Agent name:** TravelSuggestions 
-•	**Deployment:**  gpt-4.1-mini (version:2025-04-14)
+5. Preencher os campos na tela de configuração do **model em Setup** na lateral direita:<br>
+•	**Agent name:** TravelSuggestions<br> 
+•	**Deployment:**  gpt-4.1-mini (version:2025-04-14)<br>
 •	**Instructions:**
 Você é um agente especializado em viagens nacionais e internacionais.
 Sua função é recomendar uma lista das melhores cidades e países para viajar considerando:
-- Clima ideal
-- Preferências opcionais do usuário (praia, frio, barato, cultura)
-- Eventos culturais e festivais no destino
-- Temporada de preços (alta, média, baixa)
-- Segurança e facilidade de viagem
-- Melhor mês
-Para obter informações, utilize as ferramentas configuradas (clima, eventos, pesquisas, preços).
+  - Clima ideal
+  - Preferências opcionais do usuário (praia, frio, barato, cultura)
+  - Eventos culturais e festivais no destino
+  - Temporada de preços (alta, média, baixa)
+  - Segurança e facilidade de viagem
+  - Melhor mês
+Para obter informações, utilize as ferramentas configuradas (clima, eventos, pesquisas, preços).<br>
 Regras:
 1. Se o usuário informar um MÊS → sugira 5–10 destinos adequados naquele mês.
 2. Se o usuário informar um LUGAR → sugira destinos semelhantes ou complementares ao perfil do lugar.
@@ -93,5 +93,6 @@ O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com o
  
 7.	Clicar no botão **Create** na tela de **Add Logic Add action** na lateral direita.
  
+
 
 
