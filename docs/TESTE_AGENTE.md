@@ -1,10 +1,10 @@
-Testes no Agente
-1.	Clicar no botão Try in playground na tela de configuração do model em Setup na lateral direita.
+# Testes no Agente
+1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.
  
-6.	Preencher o campo de pergunta no final da página (Type user query here) -> clicar no botão com ícone de seta (Add and run)
+6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
-Resultado do teste 1: 
-Pergunta: print: testActions_1
+## Resultado do teste 1: 
+Pergunta: print: testActions_1 ![testActions_1](https://link-da-imagem.com/imagem.png)
 Neve
 Resposta: print: testActions_2
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
@@ -57,7 +57,7 @@ Aviso:
 •	Verifique sempre as condições climáticas antes da viagem para evitar riscos de tempestades ou avalanches.
 Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos. Quer sugestões para um mês específico?
 
-Resultado do teste 2:
+## Resultado do teste 2: 
 Pergunta: print: testActions_3
  “Quais são os melhores destinos para viajar em março?”
 Resposta: print: testActions_4
@@ -109,7 +109,7 @@ Aviso: Em março, evite destinos com temporada de monções ou furacões, como C
 
 Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômicas específicas.
 
-Resultado do teste 3:
+## Resultado do teste 3:
 Pergunta: print: testActions_5
 “Lugares parecidos com Cancun?”
 Resposta: print: testActions_6
@@ -144,11 +144,12 @@ Aviso: Todos esses destinos têm clima quente em geral, mas verifique a temporad
 
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 
-Resultado do teste 4:
+## Resultado do teste 4:
 Pergunta: print: testActions_7
 Mandar e-mail
 Resposta: print: testActions_8
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
