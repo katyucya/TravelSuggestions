@@ -1,12 +1,12 @@
 # Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.
- (docs/prints/Create Agent/createAgent_6.jpg)
+
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## Resultado do teste 1: 
-Pergunta: print: testActions_1 ![testActions_1](https://link-da-imagem.com/imagem.png)
+**Pergunta: print:** testActions_1
 Neve
-Resposta: print: testActions_2
+**Resposta: print:** testActions_2
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
 
 Aqui estão 7 destinos recomendados para quem quer viajar para lugares com neve:
@@ -56,11 +56,12 @@ Aviso:
 •	Em destinos com neve, prepare-se para temperaturas abaixo de zero e possibilidade de estradas fechadas por neve.
 •	Verifique sempre as condições climáticas antes da viagem para evitar riscos de tempestades ou avalanches.
 Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos. Quer sugestões para um mês específico?
+</span>
 
 ## Resultado do teste 2: 
-Pergunta: print: testActions_3
- “Quais são os melhores destinos para viajar em março?”
-Resposta: print: testActions_4
+**Pergunta: print:** testActions_3<br>
+ “Quais são os melhores destinos para viajar em março?”<br>
+**Resposta: print:** testActions_4<br>
 Para março, os melhores destinos para viajar combinam clima agradável, eventos culturais interessantes, preços acessíveis e segurança. Aqui estão 7 sugestões com explicações:
 1.	Lisboa, Portugal
 o	Clima: Temperatura amena, ideal para passeios ao ar livre.
@@ -105,14 +106,14 @@ o	Preço: Econômico.
 o	Segurança: Boa em áreas turísticas.
 o	Eventos: Festivais culturais.
 
-Aviso: Em março, evite destinos com temporada de monções ou furacões, como Caribe e partes do Sudeste Asiático.
+**Aviso:** Em março, evite destinos com temporada de monções ou furacões, como Caribe e partes do Sudeste Asiático.
 
 Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômicas específicas.
 
 ## Resultado do teste 3:
-Pergunta: print: testActions_5
+**Pergunta: print:** testActions_5
 “Lugares parecidos com Cancun?”
-Resposta: print: testActions_6
+**Resposta: print:** testActions_6
 Cancún é famosa por suas praias paradisíacas, clima quente, vida noturna animada e infraestrutura turística. Para destinos semelhantes, considerarei praias tropicais, clima quente, boa estrutura turística e opções culturais. Aqui estão 5 sugestões:
 1.	Playa del Carmen, México
 o	Próximo a Cancún, com praias lindas e vibe mais tranquila.
@@ -140,17 +141,18 @@ o	Clima quente e ambiente tranquilo.
 o	Cultura local e festivais.
 o	Preço: Econômico.
 
-Aviso: Todos esses destinos têm clima quente em geral, mas verifique a temporada de chuvas ou furacões, especialmente de junho a novembro no Caribe.
+**Aviso:** Todos esses destinos têm clima quente em geral, mas verifique a temporada de chuvas ou furacões, especialmente de junho a novembro no Caribe.
 
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 
 ## Resultado do teste 4:
-Pergunta: print: testActions_7
+**Pergunta: print:** testActions_7
 Mandar e-mail
-Resposta: print: testActions_8
+**Resposta: print:** testActions_8
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
 
 
