@@ -11,17 +11,21 @@ Criar um agente inteligente capaz de recomendar destinos de viagem com precisão
   *	eventos e atividades.
 * Feito	Oferecer explicações claras e orientações de planejamento.
 
-## ❗ Problema que o Projeto Resolve
-Viajar exige planejamento cuidadoso. Muitos viajantes acabam escolhendo um destino para viajar com base somente nos preços. Pois muitas vezes os preços são muito atraentes em determinados meses para alguns países, mas são época de tornados, furacões, tsunâmis, chuvas, etc.
+## ❗ Problema
+Viajar exige planejamento cuidadoso. Muitos viajantes acabam escolhendo um destino para viajar com base somente nos preços. Pois muitas vezes os preços são muito atraentes em determinados meses para alguns países.
 Muitos não sabem:
-*	quais destinos são melhores em cada mês;
-*	quais locais têm melhor clima na época desejada;
-* onde há eventos ou festivais interessantes;
-* qual é o custo médio da viagem;
-* alternativas semelhantes ao destino desejado.
+❌	clima muito extremo (muito quente, muita chuva ou muita neve);
+❌ épocas de furacão, tornados, tsunâmis;
+❌ custo alto da viagem;
+❌ local perigoso para turista.
 
-## Solução
+## 💡 Solução
 O projeto resolve esse problema ao oferecer um agente conversacional inteligente, capaz de entregar recomendações contextualizadas e atualizadas.
+✔️	quais destinos são melhores em cada mês;
+✔️	quais locais têm melhor clima na época desejada;
+✔️ onde há eventos ou festivais interessantes;
+✔️ qual é o custo médio da viagem;
+✔️ alternativas semelhantes ao destino desejado.
 
 ## 🧩 Recursos do Agente
 ✔️ Recomendação de destinos com base no perfil do usuário
@@ -39,17 +43,10 @@ O projeto resolve esse problema ao oferecer um agente conversacional inteligente
 ✔️ Python / JavaScript (dependendo da implementação)<br>
 ✔️ APIs externas (ex.: clima, preços de passagens)<br>
 
-## 🏗️: Arquitetura
-Usuário → Agente de Viagens (Azure AI Foundry)
-             ↓
-        Ferramentas/Plugins
-   - API de clima
-   - API de destinos
-   - Banco de dados de viagens
-             ↓
-        Resposta personalizada
+## 🏗️ Arquitetura
+![esquema](https://github.com/user-attachments/assets/6db95e38-174b-4d5d-960f-bc4a67785c49)
 
-## Como Executar o Projeto
+## 🛠️ Como Executar o Projeto
 1️⃣ Pré-requisitos<br>
 ✅ Conta no Azure<br>
 ✅ Acesso ao Azure AI Foundry<br>
