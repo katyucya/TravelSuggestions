@@ -4,9 +4,9 @@
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## Resultado do teste 1: 
-**Pergunta: print:** testActions_1
-Neve
-**Resposta: print:** testActions_2
+**Pergunta: print:** testActions_1<br>
+Neve<br>
+**Resposta: print:** testActions_2<br>
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
 
 Aqui estão 7 destinos recomendados para quem quer viajar para lugares com neve:
@@ -51,12 +51,11 @@ o	Clima: Frio, possibilidade de geada e neve rara no inverno
 o	Por que: Cultura alemã, festivais de inverno, gastronomia, opção econômica para neve no Brasil.
 o	Melhor mês: Julho
 o	Preço: Médio
-o	Segurança: Boa
-Aviso:
-•	Em destinos com neve, prepare-se para temperaturas abaixo de zero e possibilidade de estradas fechadas por neve.
+o	Segurança: Boa<br>
+**Aviso:**<br>
+•	Em destinos com neve, prepare-se para temperaturas abaixo de zero e possibilidade de estradas fechadas por neve.<br>
 •	Verifique sempre as condições climáticas antes da viagem para evitar riscos de tempestades ou avalanches.
 Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos. Quer sugestões para um mês específico?
-</span>
 
 ## Resultado do teste 2: 
 **Pergunta: print:** testActions_3<br>
@@ -111,9 +110,9 @@ o	Eventos: Festivais culturais.
 Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômicas específicas.
 
 ## Resultado do teste 3:
-**Pergunta: print:** testActions_5
-“Lugares parecidos com Cancun?”
-**Resposta: print:** testActions_6
+**Pergunta: print:** testActions_5<br>
+“Lugares parecidos com Cancun?”<br>
+**Resposta: print:** testActions_6<br>
 Cancún é famosa por suas praias paradisíacas, clima quente, vida noturna animada e infraestrutura turística. Para destinos semelhantes, considerarei praias tropicais, clima quente, boa estrutura turística e opções culturais. Aqui estão 5 sugestões:
 1.	Playa del Carmen, México
 o	Próximo a Cancún, com praias lindas e vibe mais tranquila.
@@ -146,12 +145,13 @@ o	Preço: Econômico.
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 
 ## Resultado do teste 4:
-**Pergunta: print:** testActions_7
-Mandar e-mail
-**Resposta: print:** testActions_8
+**Pergunta: print:** testActions_7<br>
+Mandar e-mail<br>
+**Resposta: print:** testActions_8<br>
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
 
 
