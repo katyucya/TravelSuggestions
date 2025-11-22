@@ -13,7 +13,7 @@
 </p>  
 ✅**Resposta: print:** 
 <p align="center">
-<img src="docs/prints/Test agents/testAgents_2.jpg" width="500" alt="Print da resposta do agente para o usuário">
+<img src="prints/Test agents/testAgents_2.jpg" width="500" alt="Print da resposta do agente para o usuário">
 </p>   
 ```
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
@@ -184,6 +184,7 @@ Desculpe, mas eu só posso ajudar com informações e recomendações sobre viag
 ```
  
 **⬅️ [Voltar ao README principal](../README.md)**
+
 
 
 
