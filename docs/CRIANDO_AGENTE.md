@@ -85,8 +85,9 @@ O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com o
  <p align="center">
 <img src="prints/Create Agent/createAgent_4.jpg" width="700">
 </p>
+
 6.	Preencher o campo na tela de configuração do **model em Setup** na lateral direita:<br>
--	**Model Settings ->** Temperature: 0.3
+	• **Model Settings ->** Temperature: 0.3
  <p align="center">
 <img src="prints/Create Agent/createAgent_5.jpg" width="700">
 </p>
