@@ -1,16 +1,20 @@
 # 🧪 Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.<br>
 <p align="center">
-<img src="prints/Create Agent/createAgent_6.jpg" width="300" >
+<img src="prints/Create Agent/createAgent_6.jpg" width="500" >
 </p>
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## 🔍 Resultado do teste 1: 
 ❓ **Pergunta: print:** 
-<img src="docs/prints/Test agents/testAgents_1.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
+<p align="center">
+<img src="prints/Test agents/testAgents_1.jpg" width="500" alt="Print da pergunta do usuário feita para o agente"><br>
 `Neve`<br>
+</p>  
 ✅**Resposta: print:** 
-<img src="docs/prints/Test agents/testAgents_2.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
+<p align="center">
+<img src="docs/prints/Test agents/testAgents_2.jpg" width="500" alt="Print da resposta do agente para o usuário">
+</p>   
 ```
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
 
@@ -65,10 +69,14 @@ Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos
 
 ## 🔍 Resultado do teste 2: 
 ❓**Pergunta: print:** 
-<img src="docs/prints/Test agents/testAgents_3.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
+<p align="center">
+<img src="prints/Test agents/testAgents_3.jpg" width="500" alt="Print da pergunta do usuário feita para o agente">
+</p>
  `“Quais são os melhores destinos para viajar em março?”`<br>
-✅**Resposta: print:** 
-<img src="docs/prints/Test agents/testAgents_4.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
+✅**Resposta: print:**
+<p align="center">
+<img src="prints/Test agents/testAgents_4.jpg" width="300" alt="Print da resposta do agente para o usuário">
+</p>
 ```
 Para março, os melhores destinos para viajar combinam clima agradável, eventos culturais interessantes, preços acessíveis e segurança. Aqui estão 7 sugestões com explicações:
 1.	Lisboa, Portugal
@@ -120,11 +128,15 @@ Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômi
 ```
 
 ## 🔍 Resultado do teste 3:
-❓**Pergunta: print:** 
-<img src="docs/prints/Test agents/testAgents_5.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
+❓**Pergunta: print:**
+<p align="center">
+<img src="prints/Test agents/testAgents_5.jpg" width="300" alt="Print da pergunta do usuário feita para o agente">
+</p>
 `“Lugares parecidos com Cancun?”`<br>
-✅**Resposta: print:** 
-<img src="docs/prints/Test agents/testAgents_6.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
+✅**Resposta: print:**
+<p align="center">
+<img src="prints/Test agents/testAgents_6.jpg" width="300" alt="Print da resposta do agente para o usuário">
+</p>
 ```
 Cancún é famosa por suas praias paradisíacas, clima quente, vida noturna animada e infraestrutura turística. Para destinos semelhantes, considerarei praias tropicais, clima quente, boa estrutura turística e opções culturais. Aqui estão 5 sugestões:
 1.	Playa del Carmen, México
@@ -158,16 +170,21 @@ Aviso: Todos esses destinos têm clima quente em geral, mas verifique a temporad
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 ```
 ## 🔍 Resultado do teste 4:
-❓**Pergunta: print:** 
-<img src="docs/prints/Test agents/testAgents_7.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
+❓**Pergunta: print:**
+<p align="center">
+<img src="prints/Test agents/testAgents_7.jpg" width="300" alt="Print da pergunta do usuário feita para o agente">
+</p>
 `Mandar e-mail`<br>
-✅**Resposta: print:** 
-<img src="docs/prints/Test agents/testAgents_8.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
+✅**Resposta: print:**
+<p align="center">
+<img src="prints/Test agents/testAgents_8.jpg" width="300" alt="Print da resposta do agente para o usuário">
+</p>
 ```
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 ```
  
 **⬅️ [Voltar ao README principal](../README.md)**
+
 
 
 
