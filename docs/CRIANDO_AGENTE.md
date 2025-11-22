@@ -1,11 +1,11 @@
-# Passo-a-passo para criar um Agent
+# 🤖 Passo-a-passo para criar um Agent
 
-## Pré-requisitos
+## 📋 Pré-requisitos
 ✔️ Conta ativa no **Azure** free: https://portal.azure.com/<br>
 ✔️ Conta ativa no **Azure AI Foundry**: https://ai.azure.com/<br>
 ✔️ Criar um **Resource Group**
 
-## Criando um Resoure Group
+## ☁️🧩 Criando um Resoure Group
 1. Entre no https://portal.azure.com/ e faça o login.
 2. Selecione **Resources Groups (Resource Manage)** no menu Show portal menu lateral à esquerda.
 3. Clicar em **+ Create** no menu central da página.
@@ -15,7 +15,7 @@
    •	**Region:** `(Europe) Sweden Central`<br>
 5. Clicar no botão **Review + create -> Create** no menu inferior da página. 
 
-## Criando um Projeto
+## 🚀 Criando um Projeto
 1.	Clicar no **resource group:** rg-challenge-afg
 2.	Clicar em **+ Create** no menu central da página.
 3.	Na barra de pesquisa digitar: **AI Foundry**.
@@ -33,14 +33,14 @@
 10.	Clicar no botão **Next** no menu inferior da página.
 11.	Clicar no botão **Create** no menu inferior da página
 
-## Criando Models + endpoints
+## 🧩🌐 Criando Models + endpoints
 1. Entre no https://ai.azure.com/ e faça o login.
 2. Clicar em **Models + endpoints** no menu lateral esquerdo da página
 3. Clicar em **+ Deploy model -> Deploy bade model** no menu central da página.
 4. Na barra de pesquisa digitar: **`gpt-4.1-mini`**.<br>
 5. Selecionar **gpt-4.1-mini -> confirm**
 
-## Criando um Agente
+## 🛠️ Criando um Agente
 1. Entre no https://ai.azure.com/ e faça o login.
 2. Clicar em **Go to Azure AI Foundry** portal no menu central da página
  <p align="center">
@@ -92,7 +92,7 @@ O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com o
 <img src="prints/Create Agent/createAgent_5.jpg" width="700">
 </p>
 
-## Adicionando Actions:
+## ➕⚙️ Adicionando Actions:
 1.	Clicar em **Action -> + Add** na tela de **configuração do model em Setup** na lateral direita.
 <p align="center">
 <img src="prints/Add actions/actionsAdd_1.jpg" width="700">
