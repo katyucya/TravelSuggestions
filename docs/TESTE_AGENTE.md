@@ -1,17 +1,16 @@
 # 🧪 Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.<br>
 <p align="center">
-<img src="prints/Create Agent/createAgent_6.jpg" width="500">
+<img src="prints/Create Agent/createAgent_6.jpg" width="700">
 </p>
 
 2. Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## 🔍 Resultado do teste 1: 
-❓ **Pergunta:** 
+❓ **Pergunta:**
 `Neve`<br>
-**print:** 
 <p align="center">
-<img src="prints/Test agents/testAgents_1.jpg" width="500" alt="Print da pergunta do usuário feita para o agente">
+<img src="prints/Test agents/testAgents_1.jpg" width="700" alt="Print da pergunta do usuário feita para o agente">
 </p>
  
 ✅ **Resposta:** 
@@ -67,17 +66,15 @@ Aviso:
 Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos. Quer sugestões para um mês específico?
 ```
 
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_2.jpg" width="500" alt="Print da resposta do agente para o usuário">
+<img src="prints/Test agents/testAgents_2.jpg" width="700" alt="Print da resposta do agente para o usuário">
 </p> 
   
 ## 🔍 Resultado do teste 2: 
 ❓ **Pergunta:** 
 `“Quais são os melhores destinos para viajar em março?”`<br> 
-**print:** 
 <p align="center">
-<img src="prints/Test agents/testAgents_3.jpg" width="500" alt="Print da pergunta do usuário feita para o agente">
+<img src="prints/Test agents/testAgents_3.jpg" width="700" alt="Print da pergunta do usuário feita para o agente">
 </p>
  
 ✅**Resposta:** 
@@ -130,17 +127,15 @@ Aviso:Em março, evite destinos com temporada de monções ou furacões, como Ca
 
 Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômicas específicas.
 ```
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_4.jpg" width="300" alt="Print da resposta do agente para o usuário">
+<img src="prints/Test agents/testAgents_4.jpg" width="700" alt="Print da resposta do agente para o usuário">
 </p>
 
 ## 🔍 Resultado do teste 3:
 ❓ **Pergunta:** 
 `“Lugares parecidos com Cancun?”`<br>
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_5.jpg" width="300" alt="Print da pergunta do usuário feita para o agente">
+<img src="prints/Test agents/testAgents_5.jpg" width="700" alt="Print da pergunta do usuário feita para o agente">
 </p>
 
 ✅**Resposta:** 
@@ -176,35 +171,27 @@ Aviso: Todos esses destinos têm clima quente em geral, mas verifique a temporad
 
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 ```
-
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_6.jpg" width="300" alt="Print da resposta do agente para o usuário">
+<img src="prints/Test agents/testAgents_6.jpg" width="700" alt="Print da resposta do agente para o usuário">
 </p>
 
 ## 🔍 Resultado do teste 4:
 ❓**Pergunta:** 
 `Mandar e-mail`<br>
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_7.jpg" width="300" alt="Print da pergunta do usuário feita para o agente">
+<img src="prints/Test agents/testAgents_7.jpg" width="500" alt="Print da pergunta do usuário feita para o agente">
 </p>
 
 ✅**Resposta:** 
 ```
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 ```
-**print:**
 <p align="center">
-<img src="prints/Test agents/testAgents_8.jpg" width="300" alt="Print da resposta do agente para o usuário">
+<img src="prints/Test agents/testAgents_8.jpg" width="700" alt="Print da resposta do agente para o usuário">
 </p>
 
+
 **⬅️ [Voltar ao README principal](../README.md)**
-
-
-
-
-
 
 
 
