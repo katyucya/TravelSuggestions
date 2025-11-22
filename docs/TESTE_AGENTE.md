@@ -1,12 +1,14 @@
 # 🧪 Testes no Agente
-1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.
-
+1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.<br>
+<img src="docs/prints/Create Agent/createAgent_6.jpg" width="300" ><br>
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## 🔍 Resultado do teste 1: 
-❓ **Pergunta: print:** ![Playground Baixa Frequência](/docs/prints/Test agents/testAgents_1.jpg)
+❓ **Pergunta: print:** 
+<img src="docs/prints/Test agents/testAgents_1.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
 `Neve`<br>
-✅**Resposta: print:** testActions_2<br>
+✅**Resposta: print:** 
+<img src="docs/prints/Test agents/testAgents_2.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
 ```
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
 
@@ -60,9 +62,11 @@ Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos
 ```
 
 ## 🔍 Resultado do teste 2: 
-❓**Pergunta: print:** testActions_3<br>
+❓**Pergunta: print:** 
+<img src="docs/prints/Test agents/testAgents_3.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
  `“Quais são os melhores destinos para viajar em março?”`<br>
-✅**Resposta: print:** testActions_4<br>
+✅**Resposta: print:** 
+<img src="docs/prints/Test agents/testAgents_4.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
 ```
 Para março, os melhores destinos para viajar combinam clima agradável, eventos culturais interessantes, preços acessíveis e segurança. Aqui estão 7 sugestões com explicações:
 1.	Lisboa, Portugal
@@ -114,9 +118,11 @@ Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômi
 ```
 
 ## 🔍 Resultado do teste 3:
-❓**Pergunta: print:** testActions_5<br>
+❓**Pergunta: print:** 
+<img src="docs/prints/Test agents/testAgents_5.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
 `“Lugares parecidos com Cancun?”`<br>
-✅**Resposta: print:** testActions_6<br>
+✅**Resposta: print:** 
+<img src="docs/prints/Test agents/testAgents_6.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
 ```
 Cancún é famosa por suas praias paradisíacas, clima quente, vida noturna animada e infraestrutura turística. Para destinos semelhantes, considerarei praias tropicais, clima quente, boa estrutura turística e opções culturais. Aqui estão 5 sugestões:
 1.	Playa del Carmen, México
@@ -150,14 +156,18 @@ Aviso: Todos esses destinos têm clima quente em geral, mas verifique a temporad
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 ```
 ## 🔍 Resultado do teste 4:
-❓**Pergunta: print:** testActions_7<br>
+❓**Pergunta: print:** 
+<img src="docs/prints/Test agents/testAgents_7.jpg" width="300" alt="Print da pergunta do usuário feita para o agente"><br>
 `Mandar e-mail`<br>
-✅**Resposta: print:** testActions_8<br>
+✅**Resposta: print:** 
+<img src="docs/prints/Test agents/testAgents_8.jpg" width="300" alt="Print da resposta do agente para o usuário"><br>
 ```
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 ```
  
 **⬅️ [Voltar ao README principal](../README.md)**
+
+
 
 
 
