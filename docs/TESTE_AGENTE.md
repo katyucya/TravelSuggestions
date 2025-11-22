@@ -4,7 +4,7 @@
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## 🔍 Resultado do teste 1: 
-❓ **Pergunta: print:** ![Exemplo](https://raw.githubusercontent.com/usuario/repositorio/main/assets/imagem.png)
+❓ **Pergunta: print:** <img src="docs/prints/Test%20agents/testAgents_1.jpg" alt="Descrição" width="300"/>(https://github.com/katyucya/TravelSuggestions/blob/main/docs/prints/Test%20agents/testAgents_1.jpg)
 Neve<br>
 ✅**Resposta: print:** testActions_2<br>
 Você mencionou "neve" como preferência de clima. Vou sugerir destinos que oferecem experiências com neve, como estações de esqui, paisagens nevadas e clima frio ideal para quem gosta de inverno.
@@ -151,6 +151,7 @@ Mandar e-mail<br>
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
 
 
