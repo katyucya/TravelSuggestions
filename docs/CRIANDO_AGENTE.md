@@ -10,9 +10,9 @@
 2. Selecione **Resources Groups (Resource Manage)** no menu Show portal menu lateral à esquerda.
 3. Clicar em **+ Create** no menu central da página.
 4. Preencher:<br>
-•	**Subscription:** selecione sua assinatura<br>
-•	**Resource group name:** `rg-challenge-afg`<br>
-•	**Region:** `(Europe) Sweden Central`<br>
+   •	**Subscription:** selecione sua assinatura<br>
+   •	**Resource group name:** `rg-challenge-afg`<br>
+   •	**Region:** `(Europe) Sweden Central`<br>
 5. Clicar no botão **Review + create -> Create** no menu inferior da página. 
 
 ## Criando um Projeto
@@ -20,12 +20,12 @@
 2.	Clicar em **+ Create** no menu central da página.
 3.	Na barra de pesquisa digitar: **AI Foundry**.
 4.	No **AI Foundry** clicar no botão **Create -> Microsoft Foundry**.
-5.	Preencher:
-**Subscription:** selecione sua assinatura<br>
-**Resource group name:** `rg-challenge-afg`<br>
-**Name:** `rg-challenge-afg`<br>
-**Region:** `(Europe) Sweden Central`<br>
-**Default project name:** `proj-challenge-afg`<br>
+5.	Preencher:<br>
+  • **Subscription:** selecione sua assinatura<br>
+  • **Resource group name:** `rg-challenge-afg`<br>
+  • **Name:** `rg-challenge-afg`<br>
+  • **Region:** `(Europe) Sweden Central`<br>
+  • **Default project name:** `proj-challenge-afg`<br>
 6.	Clicar no botão **Next** no menu inferior da página. 
 7.	Selecionar: **All networks, including the internet, can access this resource -> Next** no menu inferior da página. 
 8.	Clicar no botão **Next** no menu inferior da página.
@@ -58,17 +58,17 @@
 </p>
 
 5. Preencher os campos na tela de configuração do **model em Setup** na lateral direita:<br>
-•	**Agent name:** TravelSuggestions<br> 
-•	**Deployment:**  gpt-4.1-mini (version:2025-04-14)<br>
-•	**Instructions:**
-Você é um agente especializado em viagens nacionais e internacionais.
-Sua função é recomendar uma lista das melhores cidades e países para viajar considerando:
-  - Clima ideal
-  - Preferências opcionais do usuário (praia, frio, barato, cultura)
-  - Eventos culturais e festivais no destino
-  - Temporada de preços (alta, média, baixa)
-  - Segurança e facilidade de viagem
-  - Melhor mês
+   •	**Agent name:** `TravelSuggestions`<br> 
+   •	**Deployment:** `gpt-4.1-mini (version:2025-04-14)`<br>
+   •	**Instructions:**
+       Você é um agente especializado em viagens nacionais e internacionais.
+       Sua função é recomendar uma lista das melhores cidades e países para viajar considerando:<br>
+           • Clima ideal<br>
+           • Preferências opcionais do usuário (praia, frio, barato, cultura)<br>
+           • Eventos culturais e festivais no destino<br>
+           • Temporada de preços (alta, média, baixa)<br>
+           • Segurança e facilidade de viagem<br>
+           • Melhor mês<br>
 Para obter informações, utilize as ferramentas configuradas (clima, eventos, pesquisas, preços).<br>
 Regras:
     1. Se o usuário informar um MÊS → sugira 5–10 destinos adequados naquele mês.
@@ -86,7 +86,7 @@ O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com o
 <img src="prints/Create Agent/createAgent_4.jpg" width="700">
 </p>
 6.	Preencher o campo na tela de configuração do **model em Setup** na lateral direita:<br>
-•	**Model Settings ->** Temperature: 0.3
+-	**Model Settings ->** Temperature: 0.3
  <p align="center">
 <img src="prints/Create Agent/createAgent_5.jpg" width="700">
 </p>
