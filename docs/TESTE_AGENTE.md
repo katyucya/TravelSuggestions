@@ -1,6 +1,8 @@
 # 🧪 Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.<br>
-<img src="docs/prints/Create Agent/createAgent_6.jpg" width="300" ><br>
+<p align="center">
+<img src="prints/Create Agent/createAgent_6.jpg" width="300" >
+</p>
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
 ## 🔍 Resultado do teste 1: 
@@ -166,6 +168,7 @@ Desculpe, mas eu só posso ajudar com informações e recomendações sobre viag
 ```
  
 **⬅️ [Voltar ao README principal](../README.md)**
+
 
 
 
