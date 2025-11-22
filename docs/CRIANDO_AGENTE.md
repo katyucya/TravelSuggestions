@@ -95,37 +95,37 @@ O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com o
 ## Adicionando Actions:
 1.	Clicar em **Action -> + Add** na tela de **configuração do model em Setup** na lateral direita.
 <p align="center">
-<img src="prints/Add actions/actionsAddt_1.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_1.jpg" width="700">
 </p>
  
 2.	Clicar em **Azure Logic Apps** na tela de **Add action** na lateral direita.  
 <p align="center">
-<img src="prints/Add actions/actionsAddt_2.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_2.jpg" width="700">
 </p>
 
 3.	Clicar em **Call external HTTP or HTTPS endpoints** na tela de **Add Logic Add action** na lateral esquerda.
  <p align="center">
-<img src="prints/Add actions/actionsAddt_3.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_3.jpg" width="700">
 </p>
 
 4.	Preencher os campos **Your action name -> Your action description ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
  <p align="center">
-<img src="prints/Add actions/actionsAddt_4.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_4.jpg" width="700">
 </p>
 
 5.	Selecionar no campo **Value: GET ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
  <p align="center">
-<img src="prints/Add actions/actionsAddt_5.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_5.jpg" width="700">
 </p>
 
 6.	Selecionar checklist **I acknowledge that connecting to an Azure Logic Apps service will incur additional costs to my account ->** Clicar no botão **Next** na tela de **Add Logic Add action** na lateral esquerda.
 <p align="center">
-<img src="prints/Add actions/actionsAddt_6.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_6.jpg" width="700">
 </p>
  
 7.	Clicar no botão **Create** na tela de **Add Logic Add action** na lateral direita.
  <p align="center">
-<img src="prints/Add actions/actionsAddt_7.jpg" width="700">
+<img src="prints/Add actions/actionsAdd_7.jpg" width="700">
 </p>
 
 **⬅️ [Voltar ao README principal](../README.md)**
