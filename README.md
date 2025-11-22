@@ -35,7 +35,7 @@ O projeto resolve esse problema ao oferecer um agente conversacional inteligente
 
 ## 🧠 Tecnologias Utilizadas
 ✔️ Azure AI Foundry<br>
-✔️ Azure Functions / Logic Apps (opcional)
+✔️ Azure Functions / Logic Apps (opcional)<br>
 ✔️ APIs externas (ex.: clima, preços)<br>
 
 ## 🏗️ Arquitetura
