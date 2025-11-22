@@ -51,3 +51,8 @@ O projeto resolve esse problema ao oferecer um agente conversacional inteligente
 - [Como criar um agente](docs/CRIANDO_AGENTE.md)
 - [Testes do agente](docs/TESTE_AGENTE.md)
 
+## 📚 Referências
+- [Azure](https://ai.azure.com/)
+- [AI azure Foundry ](https://ai.azure.com/)
+- [Chatgpt](https://chatgpt.com/)
+- [Tutorial GitHub](https://docs.github.com/pt)
