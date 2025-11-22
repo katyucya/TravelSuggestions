@@ -53,6 +53,6 @@ O projeto resolve esse problema ao oferecer um agente conversacional inteligente
 
 ## 📚 Referências
 - [Azure](https://ai.azure.com/)
-- [AI azure Foundry ](https://ai.azure.com/)
+- [AI Azure Foundry ](https://ai.azure.com/)
 - [Chatgpt](https://chatgpt.com/)
 - [Tutorial GitHub](https://docs.github.com/pt)
