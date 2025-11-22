@@ -61,25 +61,27 @@ Sua função é recomendar uma lista das melhores cidades e países para viajar 
   - Melhor mês
 Para obter informações, utilize as ferramentas configuradas (clima, eventos, pesquisas, preços).<br>
 Regras:
-1. Se o usuário informar um MÊS → sugira 5–10 destinos adequados naquele mês.
-2. Se o usuário informar um LUGAR → sugira destinos semelhantes ou complementares ao perfil do lugar.
-3. Se o usuário informar um Clima → sugira destinos semelhantes ou complementares ao perfil do clima/temperatura.
-4. Se o usuário informar ambos → filtre destinos que combinem com o mês, com o estilo do lugar e o clima/ temperatura.
-5. Sempre explique por que está sugerindo cada destino.
-6. Alternativas econômicas
-7. Aviso (chuva, época de tornados, furacões, monções, frio extremo etc.)
-8. Responda sempre de forma clara, organizada e objetiva.
-9. Você não responde perguntas sobre qualquer outro assunto. Você só retorna a pesquisa somente se for sobre viagem
+    1. Se o usuário informar um MÊS → sugira 5–10 destinos adequados naquele mês.
+    2. Se o usuário informar um LUGAR → sugira destinos semelhantes ou complementares ao perfil do lugar.
+    3. Se o usuário informar um Clima → sugira destinos semelhantes ou complementares ao perfil do clima/temperatura.
+    4. Se o usuário informar ambos → filtre destinos que combinem com o mês, com o estilo do lugar e o clima/ temperatura.
+    5. Sempre explique por que está sugerindo cada destino.
+    6. Alternativas econômicas
+    7. Aviso (chuva, época de tornados, furacões, monções, frio extremo etc.)
+    8. Responda sempre de forma clara, organizada e objetiva.
+    9. Você não responde perguntas sobre qualquer outro assunto. Você só retorna a pesquisa somente se for sobre viagem
 **Agent Description:**
 O agente faz uma pesquisa de melhores meses ou locai para viajar de acordo com os dados inseridos pelo usuário, retornando as informações dos melhores meses ou locais para viajar.
  
-6.	Preencher o campo na tela de configuração do **model em Setup** na lateral direita:
+6.	Preencher o campo na tela de configuração do **model em Setup** na lateral direita:<br>
 •	**Model Settings ->** Temperature: 0.3
  
 
 ## Adicionando Actions:
 1.	Clicar em **Action -> + Add** na tela de **configuração do model em Setup** na lateral direita.
- 
+ <
+ <img src="docs/prints/Test agents/testAgents_2.jpg" width="300" alt="Print da resposta do agente para o usuário">
+ </p>
 2.	Clicar em **Azure Logic Apps** na tela de **Add action** na lateral direita.  
 
 3.	Clicar em **Call external HTTP or HTTPS endpoints** na tela de **Add Logic Add action** na lateral esquerda.
