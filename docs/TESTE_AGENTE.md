@@ -1,9 +1,9 @@
-# Testes no Agente
+# 🧪 Testes no Agente
 1.	Clicar no botão **Try in playground** na tela de configuração do model em Setup na lateral direita.
 
 6.	Preencher o campo de pergunta no final da página **(Type user query here) ->** clicar no botão com **ícone de seta (Add and run)**
 
-## Resultado do teste 1: 
+## 🔍 Resultado do teste 1: 
 **Pergunta: print:** testActions_1<br>
 Neve<br>
 **Resposta: print:** testActions_2<br>
@@ -57,7 +57,7 @@ o	Segurança: Boa<br>
 •	Verifique sempre as condições climáticas antes da viagem para evitar riscos de tempestades ou avalanches.
 Se desejar, posso ajudar a filtrar por país, orçamento ou eventos específicos. Quer sugestões para um mês específico?
 
-## Resultado do teste 2: 
+## 🔍 Resultado do teste 2: 
 **Pergunta: print:** testActions_3<br>
  “Quais são os melhores destinos para viajar em março?”<br>
 **Resposta: print:** testActions_4<br>
@@ -109,7 +109,7 @@ o	Eventos: Festivais culturais.
 
 Se desejar, posso detalhar mais sobre algum destino ou sugerir opções econômicas específicas.
 
-## Resultado do teste 3:
+## 🔍 Resultado do teste 3:
 **Pergunta: print:** testActions_5<br>
 “Lugares parecidos com Cancun?”<br>
 **Resposta: print:** testActions_6<br>
@@ -144,13 +144,14 @@ o	Preço: Econômico.
 
 Se quiser, posso ajudar a escolher o melhor para o seu perfil ou informar sobre preços e eventos atuais.
 
-## Resultado do teste 4:
+## 🔍 Resultado do teste 4:
 **Pergunta: print:** testActions_7<br>
 Mandar e-mail<br>
 **Resposta: print:** testActions_8<br>
 Desculpe, mas eu só posso ajudar com informações e recomendações sobre viagens nacionais e internacionais. Se precisar de ajuda para planejar uma viagem, por favor, me informe o mês, destino ou preferências!
 
  
+
 
 
 
