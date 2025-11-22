@@ -193,13 +193,3 @@ Desculpe, mas eu só posso ajudar com informações e recomendações sobre viag
 
 **⬅️ [Voltar ao README principal](../README.md)**
 
-
-
-
-
-
-
-
-
-
->>>>>>> dddf3af3cc91601a7e2e15664b87a792051a6de7
